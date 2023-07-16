@@ -1,0 +1,16 @@
+{
+	"firstname": "Don",
+	"lastname": "Duck",
+	"address": [
+		{
+			"street": "noname",
+			"city": "abc",
+			"state": "IL"
+		},
+		{
+			"street": "some name",
+			"city": "pqr",
+			"state": "IN"
+		}
+	]
+}
