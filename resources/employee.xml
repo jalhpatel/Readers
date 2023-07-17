@@ -1,0 +1,9 @@
+<resources>
+
+	<string name="firstname">Don</string>
+	<string name="lastname">Duck</string>
+	<string name="street">abc</string>
+	<string name="city">noname</string>
+	<string name="state">IL</string>
+
+</resources>
